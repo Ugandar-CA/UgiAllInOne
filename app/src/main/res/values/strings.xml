@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Ugi All In One</string>
+    <string name="weather_app">Weather App</string>
+    <string name="to_do_list_app">To-Do List App</string>
+    <string name="dashboard_title">Ugi All In One App</string>
 </resources>
