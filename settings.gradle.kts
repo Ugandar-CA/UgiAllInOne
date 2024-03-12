@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Ugi All In One"
 include(":app")
- 
+include(":weatherapp")
